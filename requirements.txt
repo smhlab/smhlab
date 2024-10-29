@@ -3,5 +3,4 @@ ifcopenshell
 typing
 Union
 logging
-os
 zipfile
