@@ -1,2 +1,11 @@
 streamlit
 ifcopenshell
+ifcopenshell.api
+ifcopenshell.guid
+ifcopenshell.util.selector
+typing
+Union
+tempfile
+logging
+os
+zipfile
