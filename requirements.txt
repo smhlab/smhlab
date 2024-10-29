@@ -2,7 +2,6 @@ streamlit
 ifcopenshell
 typing
 Union
-tempfile
 logging
 os
 zipfile
