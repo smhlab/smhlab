@@ -1,6 +1,5 @@
 streamlit
 ifcopenshell
-ifcopenshell.util.selector
 typing
 Union
 tempfile
