@@ -1,6 +1,5 @@
 streamlit
 ifcopenshell
-ifcopenshell.guid
 ifcopenshell.util.selector
 typing
 Union
